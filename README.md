@@ -1,1 +1,2 @@
-These files were made to learn about PyTorch, a ML framework based in Torch library.
+<h1>PyTorch course</h1>
+
